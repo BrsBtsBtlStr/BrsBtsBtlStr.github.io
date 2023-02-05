@@ -19,7 +19,7 @@ body, html {
   
   .bg-image {
     /* The image used */
-    background-image: url("trees.jpg");
+    background-image: url("background.jpg");
     background-color: rgb(53, 53, 160);
     
     /* Add the blur effect */
