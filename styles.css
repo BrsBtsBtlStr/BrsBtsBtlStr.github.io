@@ -22,7 +22,7 @@ body, html {
     height: 100%;
 
     /* center animation */
-    background-position: top;
+    position: center top;
   }
   
   .bg-image {
