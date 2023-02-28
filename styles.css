@@ -16,6 +16,14 @@ body, html {
     font-weight: 100;
     color: rgb(166, 166, 166);
   }
+
+  .container {
+    /* full height container */
+    height: 100%;
+
+    /* center animation */
+    background-position: top center;
+  }
   
   .bg-image {
     /* The image used */
